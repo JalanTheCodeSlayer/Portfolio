@@ -1,0 +1,152 @@
+*{
+	margin: 0;
+	padding: none;
+
+}
+header{
+	position: relative;
+	color: white;
+	height: 50px;
+}
+body{
+	background-image: url("c:/Users/Retta/OneDrive/Desktop/MiracleBank/pedals.gif");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+
+}
+
+html{
+		margin: auto;
+
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	min-width: 1px;
+	margin-left: auto;
+	margin-right: auto;
+
+
+}
+.nav{
+	color: white;
+	font: stick;
+
+
+}
+
+#name{
+	font-size: 20px;
+	position: absolute;
+	font-family: stick;
+	list-style: none;
+	left: 30px;
+}
+
+#name a{
+	color: white;
+	text-decoration: none;
+}
+
+li{
+	float: right;
+	list-style: none;
+	color: white;
+	position: relative;
+	top: 30px;
+
+}
+
+li a{
+	text-decoration: none;
+	color: white;
+	padding-right: 20px;
+	padding-left: 15px;
+	border-style: solid;
+	border-width: 1px;
+	margin-right: 20px;
+	background-color: black;
+	font: stick;
+	border-color: black;
+
+
+}
+li a:hover{
+	border-color: skyblue;
+	border-width: 3px;
+	background-color: skyblue;
+
+
+
+}
+#name a:hover{
+	color: skyblue;
+}
+ul{
+	font: stick;
+
+}
+#center{
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: none;
+	border-color: black;
+	height: 300px;
+	top: 200px;
+	width: 600px;
+	font: stick;
+
+}
+#about{
+	color: white;
+	position: relative;
+	padding-left: 250px;
+	padding-bottom: 20px;
+
+}
+#page{
+	color: white;
+	position: relative;
+	left: 30px;
+}
+p{
+	font: stick;
+
+}
+#pages a{
+	color: white;
+	font-size: 50px;
+	position: absolute;
+	text-decoration: none;
+	left: 45px;
+	bottom: 250px;
+}
+#pages a:hover{
+	color: skyblue;
+	font-size: 50px;
+	position: absolute;
+	text-decoration: none;
+	left: 45px;
+	bottom: 250px;
+}
+#pagem a{
+	color: white;
+	font-size: 50px;
+	position: absolute;
+	left: 540px;
+	bottom: 250px;
+	text-decoration: none;
+	padding-right: 1px;
+	
+}
+#pagem a:hover{
+	color: skyblue;
+	font-size: 50px;
+	position: absolute;
+	left: 540px;
+	bottom: 250px;
+	text-decoration: none;
+	
+}
